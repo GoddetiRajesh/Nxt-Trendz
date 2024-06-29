@@ -1,0 +1,30 @@
+.cart-summary-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #616e7c;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.total-price {
+  font-size: 25px;
+  color: #171f46;
+  font-weight: bold;
+}
+.cart-items {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #616e7c;
+  margin-top: 5px;
+}
+.cart-button {
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 2px;
+  height: 35px;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 15px;
+  width: 100%;
+  padding: 0;
+  margin-top: 10px;
+}
